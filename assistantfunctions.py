@@ -69,7 +69,7 @@ def choose_method(query):
 def weather():
     #? Does the key ever expire
     #Todo if key expires, make a method to generate a new key periodically
-    API_key = '82b5cdd0dad4d8f36d4525ecbf22a6ab'
+    API_key = ''
     owm = OWM(API_key)
     #getting latitude/longitute of user by their IP Address
     g = geocoder.ip('me')
