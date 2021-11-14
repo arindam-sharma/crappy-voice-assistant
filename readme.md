@@ -64,7 +64,7 @@ Prabhdeep Singh, Mehul Singh Teya, Aryan Tyagi and Arindam Sharma
 * Amazing Loading Animation while Listening to you.
 * Permanent Storage of Notes you make.
 * Comes with **Experimental features**.
-* 404 Page if something goes wrong *(nothing will go wrong).* 😅😎
+* 404 Page if something goes wrong *(nothing will go wrong).*
 
 ## Technology Stack Used
 * Front-End
@@ -86,5 +86,5 @@ Prabhdeep Singh, Mehul Singh Teya, Aryan Tyagi and Arindam Sharma
 
 ## Start
 * Driver file **brain.py**
-* hit **python brain.py** & visit **http://localhost:5000** to see MAGIC 🔮
+* hit **python brain.py** & visit **http://localhost:5000**
 * Works best on Chrome, at fullscreen (for best experience)!
